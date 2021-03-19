@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **vovac12/vovac12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+      <div>
+                  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=vovac12&theme=dark&show_icons=true&hide_border=true&count_private=true&layout=compact" /> </td>
+                  <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovac12&theme=dark&hide=html&layout=compact" /> </td>
+      </div>
+</center>
